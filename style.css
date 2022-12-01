@@ -32,15 +32,6 @@ header {
 	text-align: center;
 	width: 100%;
 }
-@media(max-width:400px){
-	
-	  body{
-        max-height:fit-content ;
-    }
-	h1{
-	font-size:2rem;	
-	}
-}
 
 nav {
     font-weight: bold;	
