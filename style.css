@@ -37,7 +37,9 @@ header {
 	  body{
         max-height:fit-content ;
     }
-  
+	h1{
+	font-size:2rem;	
+	}
 }
 
 nav {
